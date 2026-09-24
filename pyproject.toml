@@ -1,0 +1,11 @@
+[project]
+name = "ecommerce-data-engineering-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "nbconvert>=7.17.1",
+    "notebook>=7.6.3",
+    "pandas>=3.0.6",
+]
