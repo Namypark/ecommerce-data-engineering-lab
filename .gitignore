@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[oc]
+
+# macOS
+.DS_Store
+
+# Large data (> 20 MB) goes in data/large/ and is never committed.
+# Everything in data/raw and data/processed is well under 1 MB.
+data/large/
